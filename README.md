@@ -1,0 +1,1 @@
+This homework analyzes tumor growth in mice using Python, leveraging libraries like Pandas, Matplotlib, and SciPy to process data and perform statistical analyses. Key methods included calculating Pearson correlation coefficients, linear regression for trend analysis, and visualizations through scatter and box plots to compare treatment effects and identify outliers.
